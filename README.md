@@ -31,7 +31,6 @@ Each session focuses on a single, well-defined project built step by step — fr
 ## ⚙️ Tech Stack
 - **Framework:** .NET 8 / ASP.NET Core  
 - **Language:** C#  
-- **IDE:** Visual Studio 2022  
 - **Database:** In-Memory  
 
 ---
