@@ -14,9 +14,10 @@ Each session focuses on a single, well-defined project built step by step — fr
 
 | Project | Description | Repository |
 |----------|--------------|-------------|
-| ✅ **TodoApp** | Basic CRUD operations using an In-Memory Database. | [TodoApp Repository](#) |
+| ✅ **TodoApp** | Basic CRUD operations using an In-Memory Database. | [TodoApp Repository](https://github.com/Umutalb/TodoApp) |
 | 🔧 **IssueApp** *(upcoming)* | Enum-based state management and business rules. | Coming soon... |
 | 🔒 **NotesPro** *(upcoming)* | Session handling, personalization, and security basics. | Coming soon... |
+
 
 ---
 
@@ -45,7 +46,8 @@ Each session focuses on a single, well-defined project built step by step — fr
 ## 🌐 Links
 - [Event Website](https://umutalb.github.io/Backend-Event-Site/)
 - [GitHub Profile](https://github.com/Umutalb)
-- [LinkedIn](www.linkedin.com/in/umut-albayrak24)
+- [LinkedIn](https://www.linkedin.com/in/umut-albayrak24)
+
 
 ---
 
